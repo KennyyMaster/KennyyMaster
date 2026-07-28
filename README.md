@@ -10,16 +10,8 @@
 
 <br>
 
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-111111?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/QUENNIEJOY">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:quenniejoyalmazan@gmail.com">
@@ -39,29 +31,28 @@
 # 🚀 About Me
 
 - 💻 Full-Stack Web Developer
-- 🌐 Responsive Web Applications
-- ⚡ REST API Development
-- 📱 IoT Projects using Arduino & ESP32
-- ☁ Microsoft Azure IoT
+- 🌐 Building responsive web applications
+- ⚡ Creating REST API systems
+- 📱 Developing IoT projects with Arduino & ESP32
+- ☁ Exploring Microsoft Azure IoT
 - 📚 Always learning new technologies
 
 ---
 
 # 🛠 Tech Stack
 
-### Frontend
+## Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
 
 ---
 
-### Backend
+## Backend
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
@@ -70,7 +61,7 @@
 
 ---
 
-### Database
+## Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
@@ -78,7 +69,7 @@
 
 ---
 
-### IoT
+## IoT
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
@@ -90,9 +81,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=QUENNIEJOY&show_icons=true&theme=tokyonight" height="170"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QUENNIEJOY&layout=compact&theme=tokyonight" height="170"/>
 
 </p>
 
@@ -100,7 +91,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=QUENNIEJOY&theme=tokyonight"/>
 
 </p>
 
@@ -108,18 +99,18 @@
 
 # 🌱 Currently Learning
 
-- Azure Cloud
-- Azure IoT Hub
-- Docker
-- Microservices
-- Advanced Laravel
-- React Ecosystem
+- ☁ Azure Cloud
+- 🔌 Azure IoT Hub
+- 🐳 Docker
+- ⚙ Microservices
+- 🚀 Advanced Laravel
+- ⚛ React Ecosystem
 
 ---
 
-# 📫 Contact
+# 📫 Contact Me
 
-📧 **Email**
+📧 Email:
 
 **quenniejoyalmazan@gmail.com**
 
