@@ -4,7 +4,7 @@
 
 ### 💻 Full-Stack Web & IoT Developer
 
-**Laravel • React • PHP • ESP32 • Azure IoT**
+**Laravel • React • PHP • Python • ESP32 • Azure IoT**
 
 > *"Building solutions that connect software and hardware."*
 
@@ -15,7 +15,7 @@
 </a>
 
 <a href="mailto:quenniejoyalmazan@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -30,81 +30,125 @@
 
 # 🚀 About Me
 
-- 💻 Full-Stack Web Developer
-- 🌐 Building responsive web applications
-- ⚡ Creating REST API systems
-- 📱 Developing IoT projects with Arduino & ESP32
-- ☁ Exploring Microsoft Azure IoT
+💻 Full-Stack Web Developer passionate about building modern applications.
+
+- 🌐 Responsive Web Applications
+- ⚡ REST API Development
+- 📱 Mobile Application Development
+- 🔌 IoT Systems using ESP32
+- ☁ Microsoft Azure IoT Solutions
+- 🔥 Real-Time Applications
 - 📚 Always learning new technologies
 
 ---
 
 # 🛠 Tech Stack
 
-## Frontend
+## 🎨 Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
-## Backend
+# ⚙ Backend & Programming Languages
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
-## Database
+# 🗄 Database & Backend Services
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
-## IoT
+# 📱 Mobile App & Real-Time Development
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+---
+
+# 🔌 API Integration & Tools
+
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
+
+![Thunder Client](https://img.shields.io/badge/Thunder_Client-6B57FF?style=for-the-badge)
+
+---
+
+# 🌐 IoT & Cloud Technologies
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+![Azure IoT Hub](https://img.shields.io/badge/Azure_IoT_Hub-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
-![Azure IoT](https://img.shields.io/badge/Azure_IoT-0078D4?style=for-the-badge&logo=microsoftazure)
+
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=QUENNIEJOY&show_icons=true&theme=tokyonight" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=QUENNIEJOY&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QUENNIEJOY&layout=compact&theme=tokyonight" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QUENNIEJOY&layout=compact&theme=tokyonight"/>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+# 🔥 GitHub Streak
+
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=QUENNIEJOY&theme=tokyonight"/>
 
-</p>
+</div>
 
 ---
 
 # 🌱 Currently Learning
 
-- ☁ Azure Cloud
+- ☁ Microsoft Azure Cloud
 - 🔌 Azure IoT Hub
 - 🐳 Docker
 - ⚙ Microservices
 - 🚀 Advanced Laravel
 - ⚛ React Ecosystem
+- 📡 IoT Automation
 
 ---
 
