@@ -23,7 +23,7 @@
 ---
 
 <p align="center">
-<img src="assets/banner.gif" width="100%" alt="Developer Banner">
+<img src="assets/From Klickpin.com- Discover Smart curly hair care ideas for your next inspiration board using practical inspiration that still feels highly aesthe.gif" width="100%" alt="Developer Banner">
 </p>
 
 ---
